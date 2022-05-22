@@ -4,7 +4,6 @@ import less from 'gulp-less';
 import autoprefixer from 'autoprefixer';
 import browser from 'browser-sync';
 import htmlmin from 'gulp-htmlmin';
-import terser from 'gulp-terser';
 import squoosh from 'gulp-libsquoosh';
 import svgo from 'gulp-svgo';
 import svgstore from 'gulp-svgstore';
